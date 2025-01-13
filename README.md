@@ -298,6 +298,21 @@ This query provides a detailed view of **failed logon attempts**, including:
 - **Proactive Measures** ⚠️: Enables you to take proactive security measures based on location-based anomalies, such as blocking certain regions or investigating suspicious patterns.
 ---
 
+To create a **KQL Map** in **Microsoft Sentinel** through **Workbooks**:
+
+1. **Go to Microsoft Sentinel** 🌐 in Azure Portal.
+2. **Select your workspace** 🏢 and click **Workbooks**.
+3. Click **+ Add Workbook** ➕.
+4. **Choose your data source** 📊 (e.g., **SigninLogs**).
+5. Write your **KQL query** ✍️ (e.g., `SigninLogs | summarize LoginCount by Latitude, Longitude`).
+6. Click **+ Add Visualization**, select **Map** 🗺️.
+7. **Map Latitude & Longitude** fields, customize your map 🎨.
+8. **Save** and **Pin to Dashboard** 📌.
+
+And you're all set with a **KQL Map**! 🌍
+
+---
+
 **Conclusion: Why CEOs and Non-Tech Leaders Like KQL Maps**  
 
 KQL Maps turn complex data into easy-to-understand visuals 📊, helping CEOs and non-tech leaders spot security risks quickly 🚨. With location-based insights 🌍, they can make informed decisions 💡 without needing technical expertise, ensuring better protection for the company 🛡️. Simple, actionable, and effective! ✅
