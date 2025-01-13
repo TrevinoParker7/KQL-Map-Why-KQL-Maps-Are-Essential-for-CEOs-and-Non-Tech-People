@@ -1,0 +1,1 @@
+# KQL-Map-Azure-Authentication-Success
