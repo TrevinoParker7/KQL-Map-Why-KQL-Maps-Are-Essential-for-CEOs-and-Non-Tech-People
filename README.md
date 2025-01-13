@@ -12,7 +12,7 @@ Think of it as your business’s GPS for navigating data smarter and faster. �
 ---
 
 ---
-## **KQL-Map-Malicious-Traffic-Entering-the-Network**
+## **1. KQL-Map-Malicious-Traffic-Entering-the-Network**
 
 ![Screenshot 2025-01-13 121331](https://github.com/user-attachments/assets/6b9a1268-3aa5-41e0-8dcf-680e27572432)
 
@@ -87,7 +87,7 @@ This helps identify threats and track malicious activity more effectively by add
 
 ---
 
-## **KQL-Map-Azure-Authentication-Success**
+## **2. KQL-Map-Azure-Authentication-Success**
 
 ![Screenshot 2025-01-13 111720](https://github.com/user-attachments/assets/214cbc32-7553-4350-b0c8-a196f923a292)
 ---
@@ -132,7 +132,7 @@ This query analyzes sign-in logs to give you a clear picture of user activity. H
 CEOs and non-tech people will love this because it turns complex data into easy-to-understand insights 🌍📊. It shows where users are logging in from 🌎, how many successful logins there are 🔢, and provides a clear view of business activity without technical jargon. Perfect for making fast, informed decisions and spotting trends! 💡
 
 ---
-## **KQL-Map-Azure-Authentication-Failures**
+## **3. KQL-Map-Azure-Authentication-Failures**
 
 ![Screenshot 2025-01-13 113750](https://github.com/user-attachments/assets/56d5cf72-d60c-4cb6-8961-1fa431b21c39)
 
@@ -170,7 +170,7 @@ SigninLogs
 This query gives you a view of failed logins, highlighting potential security concerns, and makes it easier to spot patterns like repeated failed attempts from specific locations 🌐.
 
 ---
-## **KQL-Map-Azure-Resource-Creations**
+## **4. KQL-Map-Azure-Resource-Creations**
 
 ![Screenshot 2025-01-13 115400](https://github.com/user-attachments/assets/7089d599-eedc-4e57-83e8-02e779289f16)
 
@@ -241,7 +241,7 @@ This enriched query gives you a clearer view of resource creation activity, with
 This query helps you track resource creation with geographical context, making it easier to spot anomalies or track user activity across different regions.
 
 ---
-## **KQL-Map-VM-Authentication-Failures**
+## **5. KQL-Map-VM-Authentication-Failures**
 
 ![Screenshot 2025-01-13 121331](https://github.com/user-attachments/assets/881f56c3-c588-4d64-a5cc-cbeb00310d10)
 
